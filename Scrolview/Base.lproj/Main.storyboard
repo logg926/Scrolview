@@ -55,6 +55,9 @@
                             <constraint firstItem="V3z-hY-e2i" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="yd5-pA-xRY"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="scrollview" destination="FHr-EQ-GXp" id="S1u-Ju-mn4"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
